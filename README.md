@@ -26,17 +26,21 @@ GUI: Windows Forms
 1) Перейти по ссылке на гитхаб: https://github.com/TeaTeapot/TFLandC
 
 2) Скачать проект
+   
 <img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/9e3d4ec7-636d-4359-9bad-6c94734bd984" />
 
-3) Распаковать архив в любое удобное место, например: "C:\Users\[имя пользователя]\Desktop\lr1"
+4) Распаковать архив в любое удобное место, например: "C:\Users\[имя пользователя]\Desktop\lr1"
 
-4) Запустить setup.exe
+5) Запустить setup.exe
+   
 <img width="995" height="411" alt="image" src="https://github.com/user-attachments/assets/71f2c218-36c2-47c1-a341-9c3ff4fc1ba5" />
 
-5) Следоваить иструкциям по установке:
+6) Следоваить иструкциям по установке:
+   
 <img width="597" height="376" alt="image" src="https://github.com/user-attachments/assets/998e0d5d-4fc4-4264-978e-2d3c97d46962" />
 
-6) Программа будет открыта автоматически по завершению установки. Открыть программу можно по пути "C:\Users\[имя пользователя]\Desktop\lr1\1.application"
+7) Программа будет открыта автоматически по завершению установки. Открыть программу можно по пути "C:\Users\[имя пользователя]\Desktop\lr1\1.application"
+   
 <img width="995" height="411" alt="image" src="https://github.com/user-attachments/assets/d61faa45-15f3-44d4-8eca-b801d5506f56" />
 
 
@@ -44,27 +48,35 @@ GUI: Windows Forms
 Руководство пользователя:
 
 При запуске программы пользователь увидит следующее окно:
+
 <img width="786" height="593" alt="image" src="https://github.com/user-attachments/assets/43917372-d838-4420-8c10-4835b024efbb" />
 
 Меню сверху позволяет управлять программой:
+
 <img width="785" height="600" alt="image" src="https://github.com/user-attachments/assets/f404139e-675f-4224-a223-89077bcbc2d2" />
 
 Выпадающее меню "Файл" содержит несколько функций:
+
 <img width="786" height="593" alt="image" src="https://github.com/user-attachments/assets/6f3fcae0-11b8-46f2-9aeb-6a934eb5dcf5" />
 
 СОЗДАТЬ: Создание нового файла.
 ОТКРЫТЬ: Выбор файла .txt для открытия.
+
+
 <img width="946" height="533" alt="image" src="https://github.com/user-attachments/assets/4d1adcdf-2fbc-4c3d-816b-5f5fb4228399" />
+
 
 <img width="786" height="593" alt="image" src="https://github.com/user-attachments/assets/3182c0e9-9e39-4c89-9e9e-ff5ee546f921" />
 
 СОХРАНИТЬ: Подтвердить внесенные изменения.
 СОХРАНИТЬ КАК: Сохранить и выбрать путь, где будет расположен файл.
+
 <img width="946" height="533" alt="image" src="https://github.com/user-attachments/assets/7c414c81-3f41-43da-b310-74f73e021482" />
 
 ВЫХОД: Закрыть программу.
 
 Выпадающее меню "Правка" содержит несколько функций:
+
 <img width="786" height="593" alt="image" src="https://github.com/user-attachments/assets/1dda6786-5e44-405f-8154-d4ba1e758c95" />
 
 ОТМЕНИТЬ: Отмена последнего внесенного изменения.
@@ -77,6 +89,7 @@ GUI: Windows Forms
 Меню "Текст" и "Пуск" еще не реализованы и функционала не имеют.
 
 Выпадающее меню "Справка" содержит две функции:
+
 <img width="786" height="593" alt="image" src="https://github.com/user-attachments/assets/aad4e6ca-731f-4f63-9923-ca9109453104" />
 
 ВЫЗОВ СПРАВКИ: Просмотреть справочную информацию о программе, описание функций.
@@ -84,26 +97,31 @@ GUI: Windows Forms
 
 
 Также пользователь может воспользоватьсся меню быстрого доступа:
+
 <img width="785" height="595" alt="image" src="https://github.com/user-attachments/assets/59cd818d-ef9d-4826-a021-500cb4a1dc93" />
 
 Порядок фукций: создать, открыть, сохранить, отменить, вырезать, копировать, вставить, удалить, справка, о программе.
 
 
 Центральное поле:
+
 <img width="783" height="588" alt="image" src="https://github.com/user-attachments/assets/8f57c4f9-6182-41e6-8d76-55ce0b18ba3e" />
 
 Используется для ввода и просмотра текстовой информации. Вставка изображений не поддерживается.
 
 Нижнее поле:
+
 <img width="783" height="588" alt="image" src="https://github.com/user-attachments/assets/cc25d9b5-9768-45bb-ae63-f654e6e3337d" />
 
 Будет использоваться при создании языкового процессора для вывода результата работы кода. На данный момент функционал отсутствует.
 
 Также пользователь имеет возможность менять размер окна приложения, потянув мышью за угол окна:
+
 <img width="804" height="611" alt="image" src="https://github.com/user-attachments/assets/53ecf398-daf4-45f4-8482-609686ce4b93" />
 
 
 А еще менять соотношение полей ввода и вывода:
+
 <img width="782" height="590" alt="image" src="https://github.com/user-attachments/assets/ffce373f-4990-470b-92ae-238db6b0a2e7" />
 
 
