@@ -51,10 +51,13 @@ GUI: Windows Forms
 
 Выпадающее меню "Файл" содержит несколько функций:
 <img width="786" height="593" alt="image" src="https://github.com/user-attachments/assets/6f3fcae0-11b8-46f2-9aeb-6a934eb5dcf5" />
+
 СОЗДАТЬ: Создание нового файла.
 ОТКРЫТЬ: Выбор файла .txt для открытия.
 <img width="946" height="533" alt="image" src="https://github.com/user-attachments/assets/4d1adcdf-2fbc-4c3d-816b-5f5fb4228399" />
+
 <img width="786" height="593" alt="image" src="https://github.com/user-attachments/assets/3182c0e9-9e39-4c89-9e9e-ff5ee546f921" />
+
 СОХРАНИТЬ: Подтвердить внесенные изменения.
 СОХРАНИТЬ КАК: Сохранить и выбрать путь, где будет расположен файл.
 <img width="946" height="533" alt="image" src="https://github.com/user-attachments/assets/7c414c81-3f41-43da-b310-74f73e021482" />
@@ -62,6 +65,7 @@ GUI: Windows Forms
 
 Выпадающее меню "Правка" содержит несколько функций:
 <img width="786" height="593" alt="image" src="https://github.com/user-attachments/assets/1dda6786-5e44-405f-8154-d4ba1e758c95" />
+
 ОТМЕНИТЬ: Отмена последнего внесенного изменения.
 ВЫРЕЗАТЬ: Записать выделенный фрагмент текста в буфер обмена для последующей однократной вставки и удалить его.
 КОПИРОВАТЬ: Записать выделенный фрагмент текста в буфер обмена для последующей вставки без удаления.
@@ -80,19 +84,23 @@ GUI: Windows Forms
 
 Также пользователь может воспользоватьсся меню быстрого доступа:
 <img width="785" height="595" alt="image" src="https://github.com/user-attachments/assets/59cd818d-ef9d-4826-a021-500cb4a1dc93" />
+
 Порядок фукций: создать, открыть, сохранить, отменить, вырезать, копировать, вставить, удалить, справка, о программе.
 
 
 Центральное поле:
 <img width="783" height="588" alt="image" src="https://github.com/user-attachments/assets/8f57c4f9-6182-41e6-8d76-55ce0b18ba3e" />
+
 Используется для ввода и просмотра текстовой информации. Вставка изображений не поддерживается.
 
 Нижнее поле:
 <img width="783" height="588" alt="image" src="https://github.com/user-attachments/assets/cc25d9b5-9768-45bb-ae63-f654e6e3337d" />
+
 Будет использоваться при создании языкового процессора для вывода результата работы кода. На данный момент функционал отсутствует.
 
 Также пользователь имеет возможность менять размер окна приложения, потянув мышью за угол окна:
 <img width="804" height="611" alt="image" src="https://github.com/user-attachments/assets/53ecf398-daf4-45f4-8482-609686ce4b93" />
+
 
 А еще менять соотношение полей ввода и вывода:
 <img width="782" height="590" alt="image" src="https://github.com/user-attachments/assets/ffce373f-4990-470b-92ae-238db6b0a2e7" />
